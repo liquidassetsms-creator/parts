@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T07:44",
+ "updated": "2026-09-29T08:14",
  "parts": [
   {
    "id": 55,
@@ -13,7 +13,7 @@
    "category": "cleaner",
    "category_label": "Cleaners",
    "price": 53.78,
-   "qty": 3,
+   "qty": 2,
    "image": "",
    "photos": [],
    "buy_url": "https://buy.stripe.com/fZucN62c3eXM0WScB2ffy0k"
@@ -167,7 +167,7 @@
    "category_label": "Filters",
    "price": 241.94,
    "qty": 3,
-   "image": "",
+   "image": "img/new/66.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/28EfZi2c38zo4949oQffy0p"
   },
@@ -320,7 +320,7 @@
    "category_label": "Filters",
    "price": 126.94,
    "qty": 1,
-   "image": "",
+   "image": "img/new/161.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/9B64gAeYPbLA7lg0Skffy0M"
   },
@@ -337,7 +337,7 @@
    "category_label": "Filters",
    "price": 1261.86,
    "qty": 1,
-   "image": "",
+   "image": "img/new/81.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/cNi5kE3g716WdJEbwYffy0u"
   },
@@ -354,7 +354,7 @@
    "category_label": "Filters",
    "price": 1237.5,
    "qty": 1,
-   "image": "",
+   "image": "img/new/58.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/aFabJ2cQHeXMdJE8kMffy0l"
   },
@@ -371,7 +371,7 @@
    "category_label": "Filters",
    "price": 162.0,
    "qty": 1,
-   "image": "",
+   "image": "img/new/210.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/3cIfZi9EvaHw494bwYffy1f"
   },
@@ -1119,7 +1119,7 @@
    "category_label": "Salt Systems",
    "price": 1025.03,
    "qty": 1,
-   "image": "",
+   "image": "img/new/246.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/8x23cw8Ar6rgdJE8kMffy1k"
   },
