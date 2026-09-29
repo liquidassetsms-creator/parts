@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T14:24",
+ "updated": "2026-09-29T14:26",
  "parts": [
   {
    "id": 55,
@@ -289,23 +289,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN140264_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/28EbJ203V9Ds35044wffy0a"
-  },
-  {
-   "id": 144,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Pipeline Filter for 35,000 gal Pool",
-   "description": "",
-   "brand": "",
-   "part": "PLF35000",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 1252.34,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/APPPLF35000_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/9B68wQ6sjaHw8pk7gIffy0K"
   },
   {
    "id": 161,
@@ -816,23 +799,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN342002_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/fZudRadUL5nc5d80Skffy02"
-  },
-  {
-   "id": 9,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Polaris PB4SQ Quiet Booster Pump 0.97 hp 115/230V",
-   "description": "",
-   "brand": "Polaris",
-   "part": "PB4SQ",
-   "category": "pump",
-   "category_label": "Pumps",
-   "price": 841.45,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PLSPB4SQ_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/fZueVe5of8zo4940Skffy04"
   },
   {
    "id": 62,
@@ -1530,6 +1496,23 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/SWBSW35120_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/bJe14oaIz8zo4947gIffy1q"
+  },
+  {
+   "id": 253,
+   "kind": "new",
+   "condition": "new",
+   "as_is": false,
+   "title": "The Outdoor Plus OPT-KVI Fire Feature Key Valve Kit",
+   "description": "",
+   "brand": "",
+   "part": "OPT-KVI",
+   "category": "valve",
+   "category_label": "Valves",
+   "price": 210.0,
+   "qty": 2,
+   "image": "",
+   "photos": [],
+   "buy_url": "https://buy.stripe.com/9B6fZi6sj5nceNI30sffy1m"
   },
   {
    "id": 60,
