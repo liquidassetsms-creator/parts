@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T14:26",
+ "updated": "2026-09-29T14:40",
  "parts": [
   {
    "id": 55,
@@ -138,23 +138,6 @@
    "buy_url": "https://buy.stripe.com/7sY5kE4kbdTI3507gIffy1e"
   },
   {
-   "id": 164,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "24\" Cristal-Flo\u2122 II Top Mount Filter T-240BP with 1.5\" MPV",
-   "description": "",
-   "brand": "Pentair",
-   "part": "145362",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 822.9,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN145362_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/3cI4gA7wn7vk4949oQffy0N"
-  },
-  {
    "id": 66,
    "kind": "new",
    "condition": "new",
@@ -170,57 +153,6 @@
    "image": "img/new/66.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/28EfZi2c38zo4949oQffy0p"
-  },
-  {
-   "id": 111,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "34\" HCF Series Commercial Fiberglass Sand Filter with 2\" Bulkhead",
-   "description": "",
-   "brand": "",
-   "part": "HCF234C",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 2303.91,
-   "qty": 2,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPHCF234C_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/8x2aEY4kbbLA5d844wffy0C"
-  },
-  {
-   "id": 115,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "460 SqFt CV Cartridge Filter System",
-   "description": "",
-   "brand": "",
-   "part": "CV460",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 1793.09,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JNDCV460_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/28EfZi03V3f40WScB2ffy0F"
-  },
-  {
-   "id": 194,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "525 SqFt SwimClear\u2122 Cartridge Filter",
-   "description": "",
-   "brand": "Hayward",
-   "part": "C5030",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 2388.53,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPC5030_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/bJe28s5of16W7lg1Woffy18"
   },
   {
    "id": 166,
@@ -1458,7 +1390,7 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 70.0,
-   "qty": 24,
+   "qty": 12,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/SWBSW35220_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/8x2dRa6sj16WgVQeJaffy1s"
@@ -1475,7 +1407,7 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 70.0,
-   "qty": 24,
+   "qty": 12,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/SWBSW35320_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/4gM6oI2c39Ds9to8kMffy1t"
@@ -1492,7 +1424,7 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 62.0,
-   "qty": 11,
+   "qty": 12,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/SWBSW35120_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/bJe14oaIz8zo4947gIffy1q"
