@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T14:16",
+ "updated": "2026-09-29T14:20",
  "parts": [
   {
    "id": 55,
@@ -376,21 +376,21 @@
    "buy_url": "https://buy.stripe.com/3cIfZi9EvaHw494bwYffy1f"
   },
   {
-   "id": 254,
+   "id": 52,
    "kind": "new",
    "condition": "new",
    "as_is": false,
-   "title": "The Outdoor Plus 31\" Cazo GFRC Fire Bowl, Rustic Gray, Natural Gas, Electronic Ignition (OPT-31RFOE12V-RGR-NG)",
-   "description": "New in box. Complete kit: fire plate, burner, mounting bracket, NG orifice, 1/2\" whistle-free hose, lava rock, 12V-30DC control panel, Smart Weather electronic ignition. Freight shipping or local pickup in Vancleave.",
+   "title": "The Outdoor Plus 48\" Cazo Narrow Ledge GFRC Fire Pit, Rustic Gray, Natural Gas, Electronic Ignition (OPT-CZNL48E12V-RGR-NG)",
+   "description": "New in box. 48\" Cazo narrow-ledge fire pit with 12V-30DC electronic ignition, burner, lava rock and control panel. Freight shipping or local pickup in Vancleave.",
    "brand": "The Outdoor Plus",
-   "part": "OPT-31RFOE12V-RGR-NG",
+   "part": "OPT-CZNL48E12V-RGR-NG",
    "category": "fire",
    "category_label": "Fire Features",
-   "price": 3611.95,
+   "price": 5121.05,
    "qty": 2,
-   "image": "img/new/254.jpg",
+   "image": "img/new/52.jpg",
    "photos": [],
-   "buy_url": "https://buy.stripe.com/9B69AU6sjeXMdJEeJaffy1v"
+   "buy_url": "https://buy.stripe.com/14AeVe7wnaHw494cB2ffy1w"
   },
   {
    "id": 4,
