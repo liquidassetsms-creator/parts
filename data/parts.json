@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T13:58",
+ "updated": "2026-09-29T14:12",
  "parts": [
   {
    "id": 55,
@@ -374,23 +374,6 @@
    "image": "img/new/210.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/3cIfZi9EvaHw494bwYffy1f"
-  },
-  {
-   "id": 229,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Hayward Commercial H400FD Heat Exchanger Assembly, ASME Cupronickel (FDXLHXA1400A)",
-   "description": "",
-   "brand": "Hayward",
-   "part": "FDXLHXA1400A",
-   "category": "heater",
-   "category_label": "Heaters",
-   "price": 4406.64,
-   "qty": 1,
-   "image": "",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/eVq5kE2c37vkfRM44wffy1i"
   },
   {
    "id": 4,
