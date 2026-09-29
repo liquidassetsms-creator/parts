@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T14:20",
+ "updated": "2026-09-29T14:24",
  "parts": [
   {
    "id": 55,
@@ -1530,23 +1530,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/SWBSW35120_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/bJe14oaIz8zo4947gIffy1q"
-  },
-  {
-   "id": 253,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "The Outdoor Plus OPT-KVI Fire Feature Key Valve Kit",
-   "description": "",
-   "brand": "",
-   "part": "OPT-KVI",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 210.0,
-   "qty": 2,
-   "image": "",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/9B6fZi6sj5nceNI30sffy1m"
   },
   {
    "id": 60,
