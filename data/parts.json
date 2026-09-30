@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T10:44",
+ "updated": "2026-09-30T11:46",
  "parts": [
   {
    "id": 55,
@@ -257,23 +257,6 @@
    "buy_url": "https://buy.stripe.com/cNi5kE3g716WdJEbwYffy0u"
   },
   {
-   "id": 58,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Xtreme XF35000 Cartridge Filter, 250 SqFt",
-   "description": "",
-   "brand": "",
-   "part": "XF35000",
-   "category": "filter",
-   "category_label": "Filters",
-   "price": 1237.5,
-   "qty": 1,
-   "image": "img/new/58.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/aFabJ2cQHeXMdJE8kMffy0l"
-  },
-  {
    "id": 210,
    "kind": "new",
    "condition": "new",
@@ -438,7 +421,7 @@
    "category": "light",
    "category_label": "Lights",
    "price": 764.14,
-   "qty": 4,
+   "qty": 2,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PAL64EGBCGS80_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/7sYeVedUL7vkdJEfNeffy0J"
@@ -629,23 +612,6 @@
    "image": "https://moovpool.com/wp-content/uploads/2024/01/1500x1500.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/cNi6oI5ofeXM0WSfNeffy0B"
-  },
-  {
-   "id": 49,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Ai Variable Speed Inverter Pump 2.7 HP",
-   "description": "",
-   "brand": "",
-   "part": "MP3AI",
-   "category": "pump",
-   "category_label": "Pumps",
-   "price": 2122.35,
-   "qty": 3,
-   "image": "https://moovpool.com/wp-content/uploads/2026/01/creation-sans-titre-22.png",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/7sYeVebMD4j83500Skffy0i"
   },
   {
    "id": 177,
@@ -1277,23 +1243,6 @@
    "buy_url": "https://buy.stripe.com/00w4gA7wn3f449430sffy0z"
   },
   {
-   "id": 50,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Flow Star Valve Actuator with 18' Cord",
-   "description": "",
-   "brand": "",
-   "part": "AVA24",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 283.68,
-   "qty": 3,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/APPAVA24_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/14A8wQeYP02SbBwfNeffy0j"
-  },
-  {
    "id": 29,
    "kind": "new",
    "condition": "new",
@@ -1343,40 +1292,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JNDK1100CKC_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/28EeVe2c38zo3509oQffy0W"
-  },
-  {
-   "id": 19,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Pentair ComPool 2\" 2-Way Diverter Valve, PVC",
-   "description": "",
-   "brand": "Pentair",
-   "part": "263029",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 94.5,
-   "qty": 2,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN263029_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/bJeaEY5of3f4gVQ30sffy07"
-  },
-  {
-   "id": 18,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Pentair ComPool 2\" 3-Way Diverter Valve, PVC",
-   "description": "",
-   "brand": "Pentair",
-   "part": "263028",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 100.34,
-   "qty": 2,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN263028_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/eVqaEY6sj16W5d8fNeffy06"
   },
   {
    "id": 270,
@@ -1458,7 +1373,7 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 224.82,
-   "qty": 2,
+   "qty": 1,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/ZODTCLVSCG_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/eVqeVebMD4j8350eJaffy0m"
