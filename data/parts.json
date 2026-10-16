@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:43",
+ "updated": "2026-10-16T15:46",
  "parts": [
   {
    "id": 55,
@@ -340,23 +340,6 @@
    "image": "https://moovpool.com/wp-content/uploads/2022/11/untitled-design-29.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/3cIeVe6sjaHwfRMbwYffy0q"
-  },
-  {
-   "id": 204,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "MasterTemp\u00ae Natural Gas High Performance Heater 400K BTU",
-   "description": "",
-   "brand": "Pentair",
-   "part": "460736",
-   "category": "heater",
-   "category_label": "Heaters",
-   "price": 4964.35,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN460736_0.png",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/00w14o8Ar02ScFAbwYffy1a"
   },
   {
    "id": 116,
@@ -1118,7 +1101,7 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 128.28,
-   "qty": 9,
+   "qty": 7,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JND7305_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/7sY14o8Ar2b04947gIffy0T"
@@ -1135,27 +1118,10 @@
    "category": "valve",
    "category_label": "Valves",
    "price": 144.42,
-   "qty": 9,
+   "qty": 6,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JND4716_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/00w00k5ofeXMeNI0Skffy0U"
-  },
-  {
-   "id": 205,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "2\"-2 1/2\" Neverlube Positive Seal 3-Port Diverter Valve",
-   "description": "",
-   "brand": "Jandy",
-   "part": "4717",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 155.32,
-   "qty": 3,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JND4717_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/00w6oIaIz4j86hc44wffy1b"
   },
   {
    "id": 219,
@@ -1258,23 +1224,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPGVA24_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/6oU9AUdUL8zo5d830sffy0c"
-  },
-  {
-   "id": 206,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "JVA Valve Actuator",
-   "description": "",
-   "brand": "Jandy",
-   "part": "4424",
-   "category": "valve",
-   "category_label": "Valves",
-   "price": 357.96,
-   "qty": 2,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JND4424_0.png",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/aFa8wQ7wndTI6hcasUffy1c"
   },
   {
    "id": 180,
