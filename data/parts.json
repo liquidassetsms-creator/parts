@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:04",
+ "updated": "2026-10-19T10:06",
  "parts": [
   {
    "id": 55,
@@ -884,23 +884,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPAQRS325_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/6oU28sg2T3f44940Skffy0e"
-  },
-  {
-   "id": 2,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Hayward TurboCell S3 40k salt cell",
-   "description": "",
-   "brand": "Hayward",
-   "part": "TCELLS340",
-   "category": "salt",
-   "category_label": "Salt Systems",
-   "price": 1591.96,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPTCELLS340_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/4gM14oaIz2b0350gRiffy01"
   },
   {
    "id": 21,
