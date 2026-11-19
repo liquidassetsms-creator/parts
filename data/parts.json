@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:20",
+ "updated": "2026-11-18T21:22",
  "parts": [
   {
    "id": 55,
@@ -370,7 +370,7 @@
    "category": "heater",
    "category_label": "Heaters",
    "price": 169.12,
-   "qty": 2,
+   "qty": 1,
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/PEN420010053S_0.png",
    "photos": [],
    "buy_url": "https://buy.stripe.com/00w7sMbMD7vkfRMfNeffy0O"
