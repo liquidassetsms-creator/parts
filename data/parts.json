@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:29",
+ "updated": "2026-11-20T13:31",
  "parts": [
   {
    "id": 55,
@@ -153,6 +153,23 @@
    "image": "img/new/66.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/28EfZi2c38zo4949oQffy0p"
+  },
+  {
+   "id": 194,
+   "kind": "new",
+   "condition": "new",
+   "as_is": false,
+   "title": "525 SqFt SwimClear\u2122 Cartridge Filter",
+   "description": "",
+   "brand": "Hayward",
+   "part": "C5030",
+   "category": "filter",
+   "category_label": "Filters",
+   "price": 2388.53,
+   "qty": 1,
+   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPC5030_0.jpg",
+   "photos": [],
+   "buy_url": "https://buy.stripe.com/bJe28s5of16W7lg1Woffy18"
   },
   {
    "id": 166,
