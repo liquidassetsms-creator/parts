@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:03",
+ "updated": "2026-11-19T18:05",
  "parts": [
   {
    "id": 55,
@@ -612,23 +612,6 @@
    "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/HPPHCP3020VSP_0.jpg",
    "photos": [],
    "buy_url": "https://buy.stripe.com/4gMcN66sjdTIfRMasUffy0V"
-  },
-  {
-   "id": 31,
-   "kind": "new",
-   "condition": "new",
-   "as_is": false,
-   "title": "Jandy VS FloPro Variable Residential 1.85 hp 115/230V In-Ground Pump, 2 Aux Relays, w/o Controller",
-   "description": "",
-   "brand": "Jandy",
-   "part": "VSFHP185DV2A",
-   "category": "pump",
-   "category_label": "Pumps",
-   "price": 1999.23,
-   "qty": 1,
-   "image": "https://res.cloudinary.com/heritageplus/c_lpad,h_800,w_800,q_auto/v1/image/JNDVSFHP185DV2A_0.jpg",
-   "photos": [],
-   "buy_url": "https://buy.stripe.com/cNi00kdUL5nc0WSdF6ffy0d"
   },
   {
    "id": 208,
